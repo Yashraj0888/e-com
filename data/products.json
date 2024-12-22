@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Premium Wireless Headphones",
+      "price": 199.99,
+      "description": "High-fidelity wireless headphones with active noise cancellation and 30-hour battery life.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+      "tags": ["audio", "wireless", "premium"]
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch Pro",
+      "price": 299.99,
+      "description": "Advanced smartwatch with health tracking, GPS, and seamless smartphone integration.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&q=80",
+      "tags": ["wearable", "smart", "fitness"]
+    },
+    {
+      "id": "3",
+      "name": "Leather Messenger Bag",
+      "price": 129.99,
+      "description": "Handcrafted genuine leather messenger bag, perfect for daily use and business.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&q=80",
+      "tags": ["leather", "accessories", "business"]
+    },
+    {
+      "id": "4",
+      "name": "Ultra HD Smart TV",
+      "price": 799.99,
+      "description": "55-inch 4K Ultra HD Smart TV with HDR and built-in streaming apps.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=500&q=80",
+      "tags": ["tv", "entertainment", "smart"]
+    },
+    {
+      "id": "5",
+      "name": "Designer Sunglasses",
+      "price": 159.99,
+      "description": "Premium UV-protected sunglasses with polarized lenses.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80",
+      "tags": ["accessories", "summer", "premium"]
+    },
+    {
+      "id": "6",
+      "name": "Gaming Laptop",
+      "price": 1299.99,
+      "description": "High-performance gaming laptop with RTX graphics and 144Hz display.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500&q=80",
+      "tags": ["gaming", "laptop", "premium"]
+    },
+    {
+      "id": "7",
+      "name": "Leather Wallet",
+      "price": 49.99,
+      "description": "Genuine leather wallet with RFID protection and multiple card slots.",
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&q=80",
+      "tags": ["leather", "accessories"]
+    },
+    {
+      "id": "8",
+      "name": "Wireless Earbuds",
+      "price": 149.99,
+      "description": "True wireless earbuds with active noise cancellation and wireless charging.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&q=80",
+      "tags": ["audio", "wireless"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "description": "Latest gadgets and electronic devices"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "description": "Trendy fashion accessories and clothing"
+    }
+  ]
+}

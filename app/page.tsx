@@ -39,7 +39,7 @@ export default function Home() {
         textDecoration: "none",
         color: "inherit",
       }}
-      href="../../../index.html"
+      href="https://yashrajsingh-dusky.vercel.app/"
     >
       Home
     </a>
